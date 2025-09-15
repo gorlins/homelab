@@ -1,0 +1,2 @@
+brew "kustomize"
+brew "yq"
