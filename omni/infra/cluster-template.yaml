@@ -1,5 +1,5 @@
 kind: Cluster
-name: omni-contrib
+name: soybagel
 talos:
   version: v1.6.1
 kubernetes:
