@@ -22278,7 +22278,7 @@ cluster:
               generators:
               - list:
                   elements:
-                  - repoPat: omni/apps/*/*
+                  - repoPath: omni/apps/*/*
                     repoURL: https://github.com/gorlins/homelab.git
                     revision: HEAD
               - git:
