@@ -1,9 +1,9 @@
 kind: Cluster
 name: soybagel
 talos:
-  version: v1.6.1
+  version: v1.10.7
 kubernetes:
-  version: 1.28.6
+  version: 1.28.15
 features:
   enableWorkloadProxy: true
 patches:
